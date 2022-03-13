@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "name": "Archers",
+    "coach": "Chris Bates",
+    "ast-coaches": ["Tony Resch", "Brian Kavanagh"],
+    "website": "https://premierlacrosseleague.com/teams/Archers",
+    "roster": ["Grant Ament", "Connor Fields", "Marcus Holman", "Tre Leclaire", "Will Manny",
+                "Ryan Ambler", "Ryan McNamara", "Tom Schreiber", "Austin Sims", "Jeff Trainor",
+                "Dominique Alexander", "Latrell Harris", "Mark McNeil", "Graeme Hossack", "Warren Jeffrey",
+                "Matt McMahon", "Jackson Place", "Jack Rapine", "Jared Conners", "Scott Ratliff", "Connor Gaffney",
+                "Tyrell Hamer-Jackson", "Adam Ghitelmann"]
+}
